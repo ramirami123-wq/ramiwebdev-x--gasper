@@ -103,7 +103,8 @@
       ],
       "custom_css": [
         ".color-swatch {border-radius: 0.4rem;}",
-        ".block-swatch {border-radius: 0.4rem;}"
+        ".block-swatch {border-radius: 0.4rem;}",
+        ".buy-buttons {animation: shopifyshake 4s;animation-iteration-count: infinite;}"
       ],
       "settings": {
         "color_scheme": "",
