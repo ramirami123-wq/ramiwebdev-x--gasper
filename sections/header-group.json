@@ -17,7 +17,7 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "Announce something here"
+            "text": "FREE DELIVERY ALL OVER LEBANON"
           }
         }
       },
@@ -36,7 +36,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".icon-search{display:none;}"
+        ".icon-search {display: none;}"
       ],
       "settings": {
         "color_scheme": "",
