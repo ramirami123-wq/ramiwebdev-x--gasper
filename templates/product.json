@@ -106,7 +106,7 @@
         "center_basic_info": false,
         "desktop_media_layout": "grid",
         "desktop_media_grid_gap": 30,
-        "mobile_controls": "dots",
+        "mobile_controls": "thumbnails",
         "enable_media_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,
@@ -154,11 +154,70 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false
       }
+    },
+    "multi_column_kjQz6n": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_d8y8Hh": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/silverhand.png",
+            "title": "Quality Without Compromise",
+            "heading_tag": "h4",
+            "content": "<p>We never compromise on quality, using only real 18k gold, rhodium, and 316L stainless steel.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_YQFUAz": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-05-18_at_10.12.12_PM.jpg",
+            "title": "Wear it 24/7",
+            "heading_tag": "h3",
+            "content": "<p>Wear your jewelry 24/7 with confidence, as our products are water, sweat, and tarnish-proof, and guaranteed to last a lifetime.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_8CbVEk": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/img1.png",
+            "title": "Crafted to Impress",
+            "heading_tag": "h3",
+            "content": "<p>Each piece is designed for everyday elegance — bold, timeless, and made to elevate any look.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_d8y8Hh",
+        "image_with_text_YQFUAz",
+        "image_with_text_8CbVEk"
+      ],
+      "custom_css": [],
+      "name": "t:sections.multi_column.presets.multi_column.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 3,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "174759289697b58e4b"
+    "174759289697b58e4b",
+    "multi_column_kjQz6n"
   ]
 }
