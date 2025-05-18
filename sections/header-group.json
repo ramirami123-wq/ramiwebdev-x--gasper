@@ -35,6 +35,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".icon-search{display:none;}"
+      ],
       "settings": {
         "color_scheme": "",
         "enable_sticky": true,
