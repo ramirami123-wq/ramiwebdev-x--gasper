@@ -251,6 +251,50 @@
         "lazy": true
       }
     },
+    "scrolling_content_zpc44V": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_kWXqpn": {
+          "type": "text",
+          "settings": {
+            "text": "Free delivery available"
+          }
+        },
+        "text_9VdCrk": {
+          "type": "text",
+          "settings": {
+            "text": "waterproof"
+          }
+        },
+        "text_D9JH3x": {
+          "type": "text",
+          "settings": {
+            "text": "Tarnish-free"
+          }
+        }
+      },
+      "block_order": [
+        "text_kWXqpn",
+        "text_9VdCrk",
+        "text_D9JH3x"
+      ],
+      "name": "t:sections.scrolling_content.presets.scrolling_content.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "left",
+        "pause_on_hover": false,
+        "text_font": "heading",
+        "text_font_size_mobile": 20,
+        "text_font_size_desktop": 16,
+        "section_vertical_spacing_mobile": 20,
+        "section_vertical_spacing_desktop": 20,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
     "multi_column_kjQz6n": {
       "type": "multi-column",
       "blocks": {
@@ -355,6 +399,7 @@
   "order": [
     "main",
     "gasper_FQrmh3",
+    "scrolling_content_zpc44V",
     "multi_column_kjQz6n",
     "related-products",
     "174759289697b58e4b"
