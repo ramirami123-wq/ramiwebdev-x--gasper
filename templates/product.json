@@ -111,7 +111,8 @@
       "custom_css": [
         ".color-swatch {border-radius: 0.4rem;}",
         ".block-swatch {border-radius: 0.4rem;}",
-        ".buy-buttons {animation: shopifyshake 4s; animation-iteration-count: infinite;}"
+        ".buy-buttons {animation: shopifyshake 4s; animation-iteration-count: infinite;}",
+        ".text-on-sale {font-size: 1.2rem;}"
       ],
       "settings": {
         "color_scheme": "",
