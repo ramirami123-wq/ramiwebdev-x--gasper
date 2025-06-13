@@ -35,6 +35,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_z4fNgQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"ultimate-countdown\"></div>"
+          }
+        },
         "liquid_HNyPjk": {
           "type": "liquid",
           "settings": {
@@ -92,6 +98,7 @@
         "title",
         "badges_7Hcdb4",
         "price",
+        "liquid_z4fNgQ",
         "liquid_HNyPjk",
         "payment_terms",
         "separator",
@@ -167,7 +174,6 @@
         "slide_zD9LUD",
         "slide_n9giDG"
       ],
-      "name": "SS - Video slider",
       "settings": {
         "slider_view": 5,
         "slider_view_mobile": 1.5,
@@ -222,21 +228,21 @@
         "card_border_color": "#000000",
         "card_shadow_color": "#000000",
         "card_overlay_color": "#000000",
-        "title_color": "#FFFFFF",
-        "stars_color": "#FFFFFF",
-        "action_color": "#FFFFFF",
-        "action_hover_color": "#FFFFFF",
-        "action_bg_color": "#FFFFFF",
-        "action_bg_hover_color": "#FFFFFF",
-        "action_border_color": "#FFFFFF",
-        "action_border_hover_color": "#FFFFFF",
-        "arrow_color": "#FFFFFF",
+        "title_color": "#ffffff",
+        "stars_color": "#ffffff",
+        "action_color": "#ffffff",
+        "action_hover_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_bg_hover_color": "#ffffff",
+        "action_border_color": "#ffffff",
+        "action_border_hover_color": "#ffffff",
+        "arrow_color": "#ffffff",
         "arrow_hover_color": "#434343",
         "arrow_bg_color": "#434343",
-        "arrow_bg_hover_color": "#FFFFFF",
+        "arrow_bg_hover_color": "#ffffff",
         "arrow_border_color": "#000000",
         "arrow_border_hover_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -278,7 +284,6 @@
         "text_9VdCrk",
         "text_D9JH3x"
       ],
-      "name": "t:sections.scrolling_content.presets.scrolling_content.name",
       "settings": {
         "separate_section_with_border": true,
         "scrolling_speed": 0.3,
@@ -338,7 +343,6 @@
         "image_with_text_8CbVEk"
       ],
       "custom_css": [],
-      "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -372,22 +376,6 @@
     },
     "174759289697b58e4b": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_8kwJJf": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": true,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": false
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_8kwJJf"
-      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
