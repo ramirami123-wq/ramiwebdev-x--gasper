@@ -35,7 +35,7 @@
       },
       "11813581335429059158": {
         "type": "shopify://apps/seedgrow-whatsapp-chat/blocks/app-embed/b85b5e45-9cea-417a-9b9e-0aa961ccf3ef",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "show_on_desktop": true,
           "show_on_mobile": true,
